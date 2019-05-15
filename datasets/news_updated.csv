@@ -11,7 +11,7 @@ no,title,category,detail,start_time,end_time,victim_as,hijack_as,innocent_as,pre
 10,iran_1,origin_change,subprefix,2017-01-05T11:30:00,,27589,"12880, 65050",,99.192.128.0/17,99.192.226.0/24,https://dyn.com/blog/iran-leaks-censorship-via-bgp-hijacks/,
 11,iran_2,origin_change,subprefix,2016-12-22T17:45:00,,46652,"12880, 65050",,141.0.172.0/22,141.0.174.0/24,https://dyn.com/blog/backconnects-suspicious-bgp-hijacks/,
 12,iran_3,origin_change,subprefix,2018-07-30T06:15:00,,62014,58224,,91.108.56.0/22,91.108.58.0/24,https://www.cyberscoop.com/telegram-iran-bgp-hijacking/,
-13,amazon_1,origin_change,moas,2018-04-24T11:00:00,,16509,10297,,205.251.192.0/24,205.251.192.0/24,205.251.192.0/24,https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f,
+13,amazon_1,origin_change,moas,2018-04-24T11:00:00,,16509,10297,,205.251.192.0/24,205.251.192.0/24,https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f,
 19,sprint_1,origin_change,moas,2014-09-09T13:45:00,,34547,1239,,95.128.184.0/22,95.128.184.0/22,https://dyn.com/blog/latest-isps-to-hijack/,
 20,windstream_1,origin_change,moas,2014-09-10T05:45:00,,4134,7029,,61.174.51.0/24,61.174.51.0/24,https://dyn.com/blog/latest-isps-to-hijack/,
 21,brazil_1,origin_change,moas,2014-08-06T03:15:00,,52770,33868,,177.39.184.0/23,177.39.184.0/23,https://dyn.com/blog/latest-isps-to-hijack/,
